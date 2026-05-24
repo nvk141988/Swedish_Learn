@@ -1,0 +1,232 @@
+:root {
+  --swedish-blue: #006aa7;
+  --swedish-yellow: #fecc02;
+  --bg-color: #f4f4f9;
+  --text-color: #333;
+  --card-bg: #fff;
+  --border-radius: 8px;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: var(--swedish-blue);
+  color: #fff;
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: var(--swedish-yellow);
+  padding: 0.5rem 0;
+}
+
+nav button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--swedish-blue);
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  border-radius: var(--border-radius);
+  transition: background-color 0.3s;
+}
+
+nav button:hover,
+nav button.active {
+  background-color: var(--swedish-blue);
+  color: var(--swedish-yellow);
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+section {
+  display: none;
+}
+
+section.active {
+  display: block;
+}
+
+h2 {
+  text-align: center;
+  color: var(--swedish-blue);
+  margin-bottom: 1.5rem;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.refresh-btn {
+  background-color: var(--swedish-yellow);
+  color: var(--swedish-blue);
+  border: 2px solid var(--swedish-blue);
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--border-radius);
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.refresh-btn:hover {
+  background-color: var(--swedish-blue);
+  color: var(--swedish-yellow);
+}
+
+/* Vocabulary Grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.vocab-card {
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border-left: 4px solid var(--swedish-blue);
+}
+
+.vocab-card .swedish {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.vocab-card .english {
+  color: #666;
+}
+
+/* Sentences */
+.sentence-block {
+  background-color: var(--card-bg);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border-left: 4px solid var(--swedish-yellow);
+}
+
+.sentence-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.listen-btn {
+  background-color: var(--swedish-blue);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.listen-btn:hover {
+  background-color: #004d7a;
+}
+
+.sentence-swedish {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+  line-height: 2;
+}
+
+.sentence-english {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+/* Tooltip for word-by-word */
+.word-tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+  border-bottom: 1px dashed var(--swedish-blue);
+  margin-right: 0.3rem;
+}
+
+.word-tooltip:hover::after {
+  content: attr(data-translation);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--text-color);
+  color: #fff;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  z-index: 10;
+  margin-bottom: 5px;
+}
+
+/* Grammar Accordion */
+.grammar-accordion {
+  border: 1px solid #ddd;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
+.grammar-toggle {
+  width: 100%;
+  text-align: left;
+  background-color: #f9f9f9;
+  border: none;
+  padding: 0.75rem 1rem;
+  font-weight: bold;
+  color: var(--swedish-blue);
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s;
+}
+
+.grammar-toggle:hover {
+  background-color: #eee;
+}
+
+.grammar-content {
+  display: none;
+  padding: 1rem;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}
+
+.grammar-content ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.grammar-content.open {
+  display: block;
+}

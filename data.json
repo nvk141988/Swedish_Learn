@@ -1,0 +1,1540 @@
+{
+  "vocabulary": [
+    {
+      "swedish": "hej",
+      "english": "hello"
+    },
+    {
+      "swedish": "tack",
+      "english": "thank you"
+    },
+    {
+      "swedish": "ja",
+      "english": "yes"
+    },
+    {
+      "swedish": "nej",
+      "english": "no"
+    },
+    {
+      "swedish": "snälla",
+      "english": "please"
+    },
+    {
+      "swedish": "bra",
+      "english": "good"
+    },
+    {
+      "swedish": "dålig",
+      "english": "bad"
+    },
+    {
+      "swedish": "stor",
+      "english": "big"
+    },
+    {
+      "swedish": "liten",
+      "english": "small"
+    },
+    {
+      "swedish": "mycket",
+      "english": "much / a lot"
+    },
+    {
+      "swedish": "lite",
+      "english": "little"
+    },
+    {
+      "swedish": "idag",
+      "english": "today"
+    },
+    {
+      "swedish": "imorgon",
+      "english": "tomorrow"
+    },
+    {
+      "swedish": "igår",
+      "english": "yesterday"
+    },
+    {
+      "swedish": "kvinna",
+      "english": "woman"
+    },
+    {
+      "swedish": "man",
+      "english": "man"
+    },
+    {
+      "swedish": "barn",
+      "english": "child"
+    },
+    {
+      "swedish": "vatten",
+      "english": "water"
+    },
+    {
+      "swedish": "mat",
+      "english": "food"
+    },
+    {
+      "swedish": "bok",
+      "english": "book"
+    },
+    {
+      "swedish": "hund",
+      "english": "dog"
+    },
+    {
+      "swedish": "katt",
+      "english": "cat"
+    },
+    {
+      "swedish": "hus",
+      "english": "house"
+    },
+    {
+      "swedish": "bil",
+      "english": "car"
+    },
+    {
+      "swedish": "cykel",
+      "english": "bicycle"
+    },
+    {
+      "swedish": "stad",
+      "english": "city"
+    },
+    {
+      "swedish": "land",
+      "english": "country"
+    },
+    {
+      "swedish": "väg",
+      "english": "road"
+    },
+    {
+      "swedish": "träd",
+      "english": "tree"
+    },
+    {
+      "swedish": "blomma",
+      "english": "flower"
+    },
+    {
+      "swedish": "sol",
+      "english": "sun"
+    },
+    {
+      "swedish": "måne",
+      "english": "moon"
+    },
+    {
+      "swedish": "stjärna",
+      "english": "star"
+    },
+    {
+      "swedish": "himmel",
+      "english": "sky"
+    },
+    {
+      "swedish": "moln",
+      "english": "cloud"
+    },
+    {
+      "swedish": "regn",
+      "english": "rain"
+    },
+    {
+      "swedish": "snö",
+      "english": "snow"
+    },
+    {
+      "swedish": "vind",
+      "english": "wind"
+    },
+    {
+      "swedish": "varm",
+      "english": "warm"
+    },
+    {
+      "swedish": "kall",
+      "english": "cold"
+    },
+    {
+      "swedish": "ny",
+      "english": "new"
+    },
+    {
+      "swedish": "gammal",
+      "english": "old"
+    },
+    {
+      "swedish": "lång",
+      "english": "long / tall"
+    },
+    {
+      "swedish": "kort",
+      "english": "short"
+    },
+    {
+      "swedish": "vacker",
+      "english": "beautiful"
+    },
+    {
+      "swedish": "ful",
+      "english": "ugly"
+    },
+    {
+      "swedish": "snabb",
+      "english": "fast"
+    },
+    {
+      "swedish": "långsam",
+      "english": "slow"
+    },
+    {
+      "swedish": "vän",
+      "english": "friend"
+    },
+    {
+      "swedish": "familj",
+      "english": "family"
+    },
+    {
+      "swedish": "mamma",
+      "english": "mother"
+    },
+    {
+      "swedish": "pappa",
+      "english": "father"
+    },
+    {
+      "swedish": "bror",
+      "english": "brother"
+    },
+    {
+      "swedish": "syster",
+      "english": "sister"
+    },
+    {
+      "swedish": "skola",
+      "english": "school"
+    },
+    {
+      "swedish": "lärare",
+      "english": "teacher"
+    },
+    {
+      "swedish": "elev",
+      "english": "student"
+    },
+    {
+      "swedish": "arbete",
+      "english": "work"
+    },
+    {
+      "swedish": "pengar",
+      "english": "money"
+    },
+    {
+      "swedish": "tid",
+      "english": "time"
+    },
+    {
+      "swedish": "timme",
+      "english": "hour"
+    },
+    {
+      "swedish": "minut",
+      "english": "minute"
+    },
+    {
+      "swedish": "sekund",
+      "english": "second"
+    },
+    {
+      "swedish": "morgon",
+      "english": "morning"
+    },
+    {
+      "swedish": "kväll",
+      "english": "evening"
+    },
+    {
+      "swedish": "natt",
+      "english": "night"
+    },
+    {
+      "swedish": "dag",
+      "english": "day"
+    },
+    {
+      "swedish": "vecka",
+      "english": "week"
+    },
+    {
+      "swedish": "månad",
+      "english": "month"
+    },
+    {
+      "swedish": "år",
+      "english": "year"
+    },
+    {
+      "swedish": "måndag",
+      "english": "monday"
+    },
+    {
+      "swedish": "tisdag",
+      "english": "tuesday"
+    },
+    {
+      "swedish": "onsdag",
+      "english": "wednesday"
+    },
+    {
+      "swedish": "torsdag",
+      "english": "thursday"
+    },
+    {
+      "swedish": "fredag",
+      "english": "friday"
+    },
+    {
+      "swedish": "lördag",
+      "english": "saturday"
+    },
+    {
+      "swedish": "söndag",
+      "english": "sunday"
+    },
+    {
+      "swedish": "röd",
+      "english": "red"
+    },
+    {
+      "swedish": "blå",
+      "english": "blue"
+    },
+    {
+      "swedish": "grön",
+      "english": "green"
+    },
+    {
+      "swedish": "gul",
+      "english": "yellow"
+    },
+    {
+      "swedish": "svart",
+      "english": "black"
+    },
+    {
+      "swedish": "vit",
+      "english": "white"
+    },
+    {
+      "swedish": "grå",
+      "english": "gray"
+    },
+    {
+      "swedish": "ett",
+      "english": "one"
+    },
+    {
+      "swedish": "två",
+      "english": "two"
+    },
+    {
+      "swedish": "tre",
+      "english": "three"
+    },
+    {
+      "swedish": "fyra",
+      "english": "four"
+    },
+    {
+      "swedish": "fem",
+      "english": "five"
+    },
+    {
+      "swedish": "sex",
+      "english": "six"
+    },
+    {
+      "swedish": "sju",
+      "english": "seven"
+    },
+    {
+      "swedish": "åtta",
+      "english": "eight"
+    },
+    {
+      "swedish": "nio",
+      "english": "nine"
+    },
+    {
+      "swedish": "tio",
+      "english": "ten"
+    },
+    {
+      "swedish": "äpple",
+      "english": "apple"
+    },
+    {
+      "swedish": "bröd",
+      "english": "bread"
+    },
+    {
+      "swedish": "mjölk",
+      "english": "milk"
+    },
+    {
+      "swedish": "kaffe",
+      "english": "coffee"
+    },
+    {
+      "swedish": "te",
+      "english": "tea"
+    },
+    {
+      "swedish": "ost",
+      "english": "cheese"
+    }
+  ],
+  "sentences": [
+    {
+      "swedish": "Hej, hur mår du?",
+      "english": "Hello, how are you?",
+      "words": [
+        {
+          "word": "Hej",
+          "translation": "Hello"
+        },
+        {
+          "word": ",",
+          "translation": ""
+        },
+        {
+          "word": "hur",
+          "translation": "how"
+        },
+        {
+          "word": "mår",
+          "translation": "feel"
+        },
+        {
+          "word": "du",
+          "translation": "you"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "\"hur mår du\" is the standard greeting meaning \"how are you\"."
+      ]
+    },
+    {
+      "swedish": "Jag gillar att läsa en bok.",
+      "english": "I like to read a book.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "gillar",
+          "translation": "like"
+        },
+        {
+          "word": "att",
+          "translation": "to"
+        },
+        {
+          "word": "läsa",
+          "translation": "read"
+        },
+        {
+          "word": "en",
+          "translation": "a"
+        },
+        {
+          "word": "bok",
+          "translation": "book"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "\"att\" is the infinitive marker used before the verb \"läsa\"."
+      ]
+    },
+    {
+      "swedish": "Kan jag få lite vatten, tack?",
+      "english": "Can I have some water, please?",
+      "words": [
+        {
+          "word": "Kan",
+          "translation": "Can"
+        },
+        {
+          "word": "jag",
+          "translation": "I"
+        },
+        {
+          "word": "få",
+          "translation": "get"
+        },
+        {
+          "word": "lite",
+          "translation": "some"
+        },
+        {
+          "word": "vatten",
+          "translation": "water"
+        },
+        {
+          "word": ",",
+          "translation": ""
+        },
+        {
+          "word": "tack",
+          "translation": "please"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "\"tack\" is used for both \"please\" and \"thank you\".",
+        "\"få\" means to receive or get."
+      ]
+    },
+    {
+      "swedish": "Det är en vacker dag idag.",
+      "english": "It is a beautiful day today.",
+      "words": [
+        {
+          "word": "Det",
+          "translation": "It"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "en",
+          "translation": "a"
+        },
+        {
+          "word": "vacker",
+          "translation": "beautiful"
+        },
+        {
+          "word": "dag",
+          "translation": "day"
+        },
+        {
+          "word": "idag",
+          "translation": "today"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "The adjective \"vacker\" matches the en-word \"dag\"."
+      ]
+    },
+    {
+      "swedish": "Pojken och flickan leker.",
+      "english": "The boy and the girl are playing.",
+      "words": [
+        {
+          "word": "Pojken",
+          "translation": "The boy"
+        },
+        {
+          "word": "och",
+          "translation": "and"
+        },
+        {
+          "word": "flickan",
+          "translation": "the girl"
+        },
+        {
+          "word": "leker",
+          "translation": "play"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "Definite article suffix \"-en\" and \"-an\" added to \"pojke\" and \"flicka\"."
+      ]
+    },
+    {
+      "swedish": "Jag talar lite svenska.",
+      "english": "I speak a little Swedish.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "talar",
+          "translation": "speak"
+        },
+        {
+          "word": "lite",
+          "translation": "a little"
+        },
+        {
+          "word": "svenska",
+          "translation": "Swedish"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "Language names like \"svenska\" are not capitalized in Swedish."
+      ]
+    },
+    {
+      "swedish": "Var är toaletten?",
+      "english": "Where is the toilet?",
+      "words": [
+        {
+          "word": "Var",
+          "translation": "Where"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "toaletten",
+          "translation": "the toilet"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "\"toaletten\" has the definite suffix \"-en\"."
+      ]
+    },
+    {
+      "swedish": "Maten är mycket god.",
+      "english": "The food is very good.",
+      "words": [
+        {
+          "word": "Maten",
+          "translation": "The food"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "mycket",
+          "translation": "very"
+        },
+        {
+          "word": "god",
+          "translation": "good"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "\"Maten\" is the definite form of \"mat\"."
+      ]
+    },
+    {
+      "swedish": "Vi ska resa imorgon.",
+      "english": "We will travel tomorrow.",
+      "words": [
+        {
+          "word": "Vi",
+          "translation": "We"
+        },
+        {
+          "word": "ska",
+          "translation": "will"
+        },
+        {
+          "word": "resa",
+          "translation": "travel"
+        },
+        {
+          "word": "imorgon",
+          "translation": "tomorrow"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "\"ska\" is used to express future tense."
+      ]
+    },
+    {
+      "swedish": "Vad heter du?",
+      "english": "What is your name?",
+      "words": [
+        {
+          "word": "Vad",
+          "translation": "What"
+        },
+        {
+          "word": "heter",
+          "translation": "are called"
+        },
+        {
+          "word": "du",
+          "translation": "you"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "\"heter\" is the present tense of the verb meaning \"to be called\"."
+      ]
+    },
+    {
+      "swedish": "Jag heter Anna.",
+      "english": "My name is Anna.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "heter",
+          "translation": "am called"
+        },
+        {
+          "word": "Anna",
+          "translation": "Anna"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'heter' translates directly to 'is called' or 'is named'."
+      ]
+    },
+    {
+      "swedish": "Jag bor i Sverige.",
+      "english": "I live in Sweden.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "bor",
+          "translation": "live"
+        },
+        {
+          "word": "i",
+          "translation": "in"
+        },
+        {
+          "word": "Sverige",
+          "translation": "Sweden"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'bor' is the present tense of 'to live'."
+      ]
+    },
+    {
+      "swedish": "Hon dricker kaffe.",
+      "english": "She is drinking coffee.",
+      "words": [
+        {
+          "word": "Hon",
+          "translation": "She"
+        },
+        {
+          "word": "dricker",
+          "translation": "drinks"
+        },
+        {
+          "word": "kaffe",
+          "translation": "coffee"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "In Swedish, there is no continuous tense (is drinking), so the present tense 'dricker' is used."
+      ]
+    },
+    {
+      "swedish": "Han äter ett äpple.",
+      "english": "He is eating an apple.",
+      "words": [
+        {
+          "word": "Han",
+          "translation": "He"
+        },
+        {
+          "word": "äter",
+          "translation": "eats"
+        },
+        {
+          "word": "ett",
+          "translation": "an"
+        },
+        {
+          "word": "äpple",
+          "translation": "apple"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'ett' is the indefinite article for ett-words like 'äpple'."
+      ]
+    },
+    {
+      "swedish": "Vi har en hund.",
+      "english": "We have a dog.",
+      "words": [
+        {
+          "word": "Vi",
+          "translation": "We"
+        },
+        {
+          "word": "har",
+          "translation": "have"
+        },
+        {
+          "word": "en",
+          "translation": "a"
+        },
+        {
+          "word": "hund",
+          "translation": "dog"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'har' is the present tense of 'to have'."
+      ]
+    },
+    {
+      "swedish": "De är mina vänner.",
+      "english": "They are my friends.",
+      "words": [
+        {
+          "word": "De",
+          "translation": "They"
+        },
+        {
+          "word": "är",
+          "translation": "are"
+        },
+        {
+          "word": "mina",
+          "translation": "my (plural)"
+        },
+        {
+          "word": "vänner",
+          "translation": "friends"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'mina' is the plural possessive pronoun for 'my'.",
+        "'vänner' is the plural form of 'vän'."
+      ]
+    },
+    {
+      "swedish": "Solen skiner idag.",
+      "english": "The sun is shining today.",
+      "words": [
+        {
+          "word": "Solen",
+          "translation": "The sun"
+        },
+        {
+          "word": "skiner",
+          "translation": "shines"
+        },
+        {
+          "word": "idag",
+          "translation": "today"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'Solen' is the definite form of 'sol' (sun)."
+      ]
+    },
+    {
+      "swedish": "Jag förstår inte.",
+      "english": "I do not understand.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "förstår",
+          "translation": "understand"
+        },
+        {
+          "word": "inte",
+          "translation": "not"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'inte' is placed after the verb to negate the sentence."
+      ]
+    },
+    {
+      "swedish": "Talar du engelska?",
+      "english": "Do you speak English?",
+      "words": [
+        {
+          "word": "Talar",
+          "translation": "Speak"
+        },
+        {
+          "word": "du",
+          "translation": "you"
+        },
+        {
+          "word": "engelska",
+          "translation": "English"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "In yes/no questions, the verb ('Talar') comes first."
+      ]
+    },
+    {
+      "swedish": "Ursäkta, var är stationen?",
+      "english": "Excuse me, where is the station?",
+      "words": [
+        {
+          "word": "Ursäkta",
+          "translation": "Excuse me"
+        },
+        {
+          "word": ",",
+          "translation": ""
+        },
+        {
+          "word": "var",
+          "translation": "where"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "stationen",
+          "translation": "the station"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'stationen' is the definite form of 'station'."
+      ]
+    },
+    {
+      "swedish": "Det kostar femtio kronor.",
+      "english": "It costs fifty crowns.",
+      "words": [
+        {
+          "word": "Det",
+          "translation": "It"
+        },
+        {
+          "word": "kostar",
+          "translation": "costs"
+        },
+        {
+          "word": "femtio",
+          "translation": "fifty"
+        },
+        {
+          "word": "kronor",
+          "translation": "crowns"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'kronor' is the plural of 'krona', the Swedish currency."
+      ]
+    },
+    {
+      "swedish": "Klockan är tre.",
+      "english": "It is three o'clock.",
+      "words": [
+        {
+          "word": "Klockan",
+          "translation": "The clock"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "tre",
+          "translation": "three"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "Time is expressed with 'Klockan är...' literally meaning 'The clock is...'."
+      ]
+    },
+    {
+      "swedish": "Jag älskar dig.",
+      "english": "I love you.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "älskar",
+          "translation": "love"
+        },
+        {
+          "word": "dig",
+          "translation": "you (object)"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'dig' is the object pronoun for 'you'."
+      ]
+    },
+    {
+      "swedish": "Vad gör du?",
+      "english": "What are you doing?",
+      "words": [
+        {
+          "word": "Vad",
+          "translation": "What"
+        },
+        {
+          "word": "gör",
+          "translation": "do"
+        },
+        {
+          "word": "du",
+          "translation": "you"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'gör' is the present tense of 'to do' or 'to make'."
+      ]
+    },
+    {
+      "swedish": "Det regnar mycket.",
+      "english": "It rains a lot.",
+      "words": [
+        {
+          "word": "Det",
+          "translation": "It"
+        },
+        {
+          "word": "regnar",
+          "translation": "rains"
+        },
+        {
+          "word": "mycket",
+          "translation": "much"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "Weather phenomena often use 'Det' (it) as the subject."
+      ]
+    },
+    {
+      "swedish": "God morgon!",
+      "english": "Good morning!",
+      "words": [
+        {
+          "word": "God",
+          "translation": "Good"
+        },
+        {
+          "word": "morgon",
+          "translation": "morning"
+        },
+        {
+          "word": "!",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "A common greeting used until around noon."
+      ]
+    },
+    {
+      "swedish": "God natt och sov gott.",
+      "english": "Good night and sleep well.",
+      "words": [
+        {
+          "word": "God",
+          "translation": "Good"
+        },
+        {
+          "word": "natt",
+          "translation": "night"
+        },
+        {
+          "word": "och",
+          "translation": "and"
+        },
+        {
+          "word": "sov",
+          "translation": "sleep"
+        },
+        {
+          "word": "gott",
+          "translation": "well/good"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'sov' is the imperative form of 'att sova' (to sleep)."
+      ]
+    },
+    {
+      "swedish": "Jag är trött.",
+      "english": "I am tired.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "är",
+          "translation": "am"
+        },
+        {
+          "word": "trött",
+          "translation": "tired"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "Adjectives must agree with the subject in gender and number. Here 'trött' matches 'Jag'."
+      ]
+    },
+    {
+      "swedish": "Han är glad idag.",
+      "english": "He is happy today.",
+      "words": [
+        {
+          "word": "Han",
+          "translation": "He"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "glad",
+          "translation": "happy"
+        },
+        {
+          "word": "idag",
+          "translation": "today"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'glad' is an adjective meaning happy."
+      ]
+    },
+    {
+      "swedish": "Bilen är röd.",
+      "english": "The car is red.",
+      "words": [
+        {
+          "word": "Bilen",
+          "translation": "The car"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "röd",
+          "translation": "red"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'Bilen' is the definite form of 'bil'."
+      ]
+    },
+    {
+      "swedish": "Huset är stort.",
+      "english": "The house is big.",
+      "words": [
+        {
+          "word": "Huset",
+          "translation": "The house"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "stort",
+          "translation": "big"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'stort' takes the '-t' suffix because 'hus' is an ett-word."
+      ]
+    },
+    {
+      "swedish": "Min mamma är lärare.",
+      "english": "My mother is a teacher.",
+      "words": [
+        {
+          "word": "Min",
+          "translation": "My"
+        },
+        {
+          "word": "mamma",
+          "translation": "mother"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "lärare",
+          "translation": "teacher"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "Professions typically do not take an article in Swedish."
+      ]
+    },
+    {
+      "swedish": "Katten sover på sängen.",
+      "english": "The cat is sleeping on the bed.",
+      "words": [
+        {
+          "word": "Katten",
+          "translation": "The cat"
+        },
+        {
+          "word": "sover",
+          "translation": "sleeps"
+        },
+        {
+          "word": "på",
+          "translation": "on"
+        },
+        {
+          "word": "sängen",
+          "translation": "the bed"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'på' is a preposition meaning 'on'."
+      ]
+    },
+    {
+      "swedish": "Vi går till skolan.",
+      "english": "We are walking to school.",
+      "words": [
+        {
+          "word": "Vi",
+          "translation": "We"
+        },
+        {
+          "word": "går",
+          "translation": "walk / go"
+        },
+        {
+          "word": "till",
+          "translation": "to"
+        },
+        {
+          "word": "skolan",
+          "translation": "the school"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'går' can mean both 'walk' and 'go'."
+      ]
+    },
+    {
+      "swedish": "Jag måste arbeta nu.",
+      "english": "I have to work now.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "måste",
+          "translation": "must / have to"
+        },
+        {
+          "word": "arbeta",
+          "translation": "work"
+        },
+        {
+          "word": "nu",
+          "translation": "now"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'måste' is an auxiliary verb followed directly by the infinitive 'arbeta' without 'att'."
+      ]
+    },
+    {
+      "swedish": "Vad kostar det?",
+      "english": "How much does it cost?",
+      "words": [
+        {
+          "word": "Vad",
+          "translation": "What"
+        },
+        {
+          "word": "kostar",
+          "translation": "costs"
+        },
+        {
+          "word": "det",
+          "translation": "it"
+        },
+        {
+          "word": "?",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'Vad' is used for 'how much' when asking for price."
+      ]
+    },
+    {
+      "swedish": "Trevligt att träffas.",
+      "english": "Nice to meet you.",
+      "words": [
+        {
+          "word": "Trevligt",
+          "translation": "Nice"
+        },
+        {
+          "word": "att",
+          "translation": "to"
+        },
+        {
+          "word": "träffas",
+          "translation": "meet each other"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'träffas' is a reciprocal verb, indicated by the '-s' ending."
+      ]
+    },
+    {
+      "swedish": "Jag kommer från England.",
+      "english": "I come from England.",
+      "words": [
+        {
+          "word": "Jag",
+          "translation": "I"
+        },
+        {
+          "word": "kommer",
+          "translation": "come"
+        },
+        {
+          "word": "från",
+          "translation": "from"
+        },
+        {
+          "word": "England",
+          "translation": "England"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'kommer från' is used to express origin."
+      ]
+    },
+    {
+      "swedish": "Hon har en ny bil.",
+      "english": "She has a new car.",
+      "words": [
+        {
+          "word": "Hon",
+          "translation": "She"
+        },
+        {
+          "word": "har",
+          "translation": "has"
+        },
+        {
+          "word": "en",
+          "translation": "a"
+        },
+        {
+          "word": "ny",
+          "translation": "new"
+        },
+        {
+          "word": "bil",
+          "translation": "car"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'ny' modifies the en-word 'bil'."
+      ]
+    },
+    {
+      "swedish": "Det är kallt ute.",
+      "english": "It is cold outside.",
+      "words": [
+        {
+          "word": "Det",
+          "translation": "It"
+        },
+        {
+          "word": "är",
+          "translation": "is"
+        },
+        {
+          "word": "kallt",
+          "translation": "cold"
+        },
+        {
+          "word": "ute",
+          "translation": "outside"
+        },
+        {
+          "word": ".",
+          "translation": ""
+        }
+      ],
+      "grammar": [
+        "'kallt' is the neuter form of the adjective 'kall', agreeing with 'Det'."
+      ]
+    }
+  ]
+}

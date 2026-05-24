@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn Swedish</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>🇸🇪 Learn Swedish</h1>
+  </header>
+
+  <nav>
+    <button id="nav-vocab" class="active">Vocabulary</button>
+    <button id="nav-sentences">Sentences</button>
+    <button id="nav-random-vocab">Random Words</button>
+    <button id="nav-random-sentences">Random Sentences</button>
+  </nav>
+
+  <main>
+    <section id="section-vocab" class="active">
+      <h2>Vocabulary</h2>
+      <div id="vocab-container" class="grid-container">
+        <!-- Vocabulary cards will be injected here by app.js -->
+      </div>
+    </section>
+
+    <section id="section-sentences" class="hidden">
+      <h2>Sentences</h2>
+      <div id="sentences-container">
+        <!-- Sentence blocks will be injected here by app.js -->
+      </div>
+    </section>
+
+    <section id="section-random-vocab" class="hidden">
+      <h2>Random Words</h2>
+      <div class="controls">
+        <button id="refresh-random-vocab" class="refresh-btn">🔄 Generate New</button>
+      </div>
+      <div id="random-vocab-container" class="grid-container">
+        <!-- Random vocabulary cards will be injected here by app.js -->
+      </div>
+    </section>
+
+    <section id="section-random-sentences" class="hidden">
+      <h2>Random Sentences</h2>
+      <div class="controls">
+        <button id="refresh-random-sentences" class="refresh-btn">🔄 Generate New</button>
+      </div>
+      <div id="random-sentences-container">
+        <!-- Random sentence blocks will be injected here by app.js -->
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
