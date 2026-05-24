@@ -1,0 +1,173 @@
+{
+  "vocabulary": [
+    {"swedish": "hej", "english": "hello"},
+    {"swedish": "tack", "english": "thank you"},
+    {"swedish": "ja", "english": "yes"},
+    {"swedish": "nej", "english": "no"},
+    {"swedish": "snälla", "english": "please"},
+    {"swedish": "bra", "english": "good"},
+    {"swedish": "dålig", "english": "bad"},
+    {"swedish": "stor", "english": "big"},
+    {"swedish": "liten", "english": "small"},
+    {"swedish": "mycket", "english": "much / a lot"},
+    {"swedish": "lite", "english": "little"},
+    {"swedish": "idag", "english": "today"},
+    {"swedish": "imorgon", "english": "tomorrow"},
+    {"swedish": "igår", "english": "yesterday"},
+    {"swedish": "kvinna", "english": "woman"},
+    {"swedish": "man", "english": "man"},
+    {"swedish": "barn", "english": "child"},
+    {"swedish": "vatten", "english": "water"},
+    {"swedish": "mat", "english": "food"},
+    {"swedish": "bok", "english": "book"}
+  ],
+  "sentences": [
+    {
+      "swedish": "Hej, hur mår du?",
+      "english": "Hello, how are you?",
+      "words": [
+        {"word": "Hej", "translation": "Hello"},
+        {"word": ",", "translation": ""},
+        {"word": "hur", "translation": "how"},
+        {"word": "mår", "translation": "feel"},
+        {"word": "du", "translation": "you"},
+        {"word": "?", "translation": ""}
+      ],
+      "grammar": [
+        "\"hur mår du\" is the standard greeting meaning \"how are you\"."
+      ]
+    },
+    {
+      "swedish": "Jag gillar att läsa en bok.",
+      "english": "I like to read a book.",
+      "words": [
+        {"word": "Jag", "translation": "I"},
+        {"word": "gillar", "translation": "like"},
+        {"word": "att", "translation": "to"},
+        {"word": "läsa", "translation": "read"},
+        {"word": "en", "translation": "a"},
+        {"word": "bok", "translation": "book"},
+        {"word": ".", "translation": ""}
+      ],
+      "grammar": [
+        "\"att\" is the infinitive marker used before the verb \"läsa\"."
+      ]
+    },
+    {
+      "swedish": "Kan jag få lite vatten, tack?",
+      "english": "Can I have some water, please?",
+      "words": [
+        {"word": "Kan", "translation": "Can"},
+        {"word": "jag", "translation": "I"},
+        {"word": "få", "translation": "get"},
+        {"word": "lite", "translation": "some"},
+        {"word": "vatten", "translation": "water"},
+        {"word": ",", "translation": ""},
+        {"word": "tack", "translation": "please"},
+        {"word": "?", "translation": ""}
+      ],
+      "grammar": [
+        "\"tack\" is used for both \"please\" and \"thank you\".",
+        "\"få\" means to receive or get."
+      ]
+    },
+    {
+      "swedish": "Det är en vacker dag idag.",
+      "english": "It is a beautiful day today.",
+      "words": [
+        {"word": "Det", "translation": "It"},
+        {"word": "är", "translation": "is"},
+        {"word": "en", "translation": "a"},
+        {"word": "vacker", "translation": "beautiful"},
+        {"word": "dag", "translation": "day"},
+        {"word": "idag", "translation": "today"},
+        {"word": ".", "translation": ""}
+      ],
+      "grammar": [
+        "The adjective \"vacker\" matches the en-word \"dag\"."
+      ]
+    },
+    {
+      "swedish": "Pojken och flickan leker.",
+      "english": "The boy and the girl are playing.",
+      "words": [
+        {"word": "Pojken", "translation": "The boy"},
+        {"word": "och", "translation": "and"},
+        {"word": "flickan", "translation": "the girl"},
+        {"word": "leker", "translation": "play"},
+        {"word": ".", "translation": ""}
+      ],
+      "grammar": [
+        "Definite article suffix \"-en\" and \"-an\" added to \"pojke\" and \"flicka\"."
+      ]
+    },
+    {
+      "swedish": "Jag talar lite svenska.",
+      "english": "I speak a little Swedish.",
+      "words": [
+        {"word": "Jag", "translation": "I"},
+        {"word": "talar", "translation": "speak"},
+        {"word": "lite", "translation": "a little"},
+        {"word": "svenska", "translation": "Swedish"},
+        {"word": ".", "translation": ""}
+      ],
+      "grammar": [
+        "Language names like \"svenska\" are not capitalized in Swedish."
+      ]
+    },
+    {
+      "swedish": "Var är toaletten?",
+      "english": "Where is the toilet?",
+      "words": [
+        {"word": "Var", "translation": "Where"},
+        {"word": "är", "translation": "is"},
+        {"word": "toaletten", "translation": "the toilet"},
+        {"word": "?", "translation": ""}
+      ],
+      "grammar": [
+        "\"toaletten\" has the definite suffix \"-en\"."
+      ]
+    },
+    {
+      "swedish": "Maten är mycket god.",
+      "english": "The food is very good.",
+      "words": [
+        {"word": "Maten", "translation": "The food"},
+        {"word": "är", "translation": "is"},
+        {"word": "mycket", "translation": "very"},
+        {"word": "god", "translation": "good"},
+        {"word": ".", "translation": ""}
+      ],
+      "grammar": [
+        "\"Maten\" is the definite form of \"mat\"."
+      ]
+    },
+    {
+      "swedish": "Vi ska resa imorgon.",
+      "english": "We will travel tomorrow.",
+      "words": [
+        {"word": "Vi", "translation": "We"},
+        {"word": "ska", "translation": "will"},
+        {"word": "resa", "translation": "travel"},
+        {"word": "imorgon", "translation": "tomorrow"},
+        {"word": ".", "translation": ""}
+      ],
+      "grammar": [
+        "\"ska\" is used to express future tense."
+      ]
+    },
+    {
+      "swedish": "Vad heter du?",
+      "english": "What is your name?",
+      "words": [
+        {"word": "Vad", "translation": "What"},
+        {"word": "heter", "translation": "are called"},
+        {"word": "du", "translation": "you"},
+        {"word": "?", "translation": ""}
+      ],
+      "grammar": [
+        "\"heter\" is the present tense of the verb meaning \"to be called\"."
+      ]
+    }
+  ]
+}
